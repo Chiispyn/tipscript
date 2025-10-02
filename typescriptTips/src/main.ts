@@ -1,5 +1,7 @@
 import './style.css'
-import './ejemplos/variables.ts'
+//import './ejemplos/variables.ts'
+import './ejemplos/valoresLiterales.ts'
+import './ejemplos/colecciones.ts'
 
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
